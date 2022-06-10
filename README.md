@@ -31,8 +31,3 @@ Example:
 ```bash
 $ python cli.py infer-emg -r  data/EMG_data_for_gestures-master/17/2_raw_data_11-20_23.03.16.txt -m deployed_models/RandomForestClassifier_w100___2022-06-02.pkl -o inference_output/inference17_2.txt
 ```
-
----
-
-## Note
-- **Explanatory analysis is provided in a notebook named: `explanatory_analysis.ipynb`.**
